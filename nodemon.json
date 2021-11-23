@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_ATLAS_USER": "jubair",
+        "MONGO_ATLAS_PWD": "jubair433",
+        "JWT_KEY": "foulkey"
+    }
+}
